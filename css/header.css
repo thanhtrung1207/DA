@@ -1,9 +1,12 @@
 .search
 {
-    padding: 14px;
+    padding: 20px;
     /* color: gray; */
-    color: rgb(29, 29, 29);
+    color: rgb(138, 138, 138);
     min-width: 25px;
     text-align: center;
     position: absolute;
+    
+    right: 135; /* Đặt vị trí sang phải */
+    padding-top: 6;/*them*/
 }
