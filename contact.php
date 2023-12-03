@@ -26,12 +26,7 @@ include 'includes/header.php';
         <p id="p1">Hi there, we are here to help you.<br> Please feel free to contact us in case you have any queries regarding the products, payment or order delivery.<br>With respect to payment, we will be accepting prepaid orders only, in order to avoid cash payment and hence maintain social distancing.<br> With respect to delay in order delivery, please note that we are trying our best to deliver your order on time, but your order may be delayed due to the current situation (or unforseen circumstances). However, we ensure that your order will be delivered soon.<br>In case you have any other queries, please fill the form below, and our team will get in touch with you within 24 hours.<br>You can also contact the number given below to get in touch with our customer care executive immediately.</p>
     </div><br><br>
     <div class="col-lg">
-        <div style="float: right;">
-            <h1>COMPANY INFORMATION</h1><br>
-            <p id="p1">Bengaluru, India - 560011</p><br>
-            <p id="p1">Phone : +91 9302385479</p><br>
-            <p id="p1">Email : support@lifestylestore.com</p>
-        </div>
+        
         <h1>CONTACT US</h1>
         <div style="float: left;">
         <form>
