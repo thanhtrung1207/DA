@@ -116,6 +116,7 @@ textarea {
   margin: 0;
   font: inherit;
   color: inherit;
+  width: 370.85px;/* them kich thuo*/
 }
 button {
   overflow: visible;
@@ -3980,10 +3981,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  padding-top: 10; /*them paddingtop*/
+}
 }
 .nav > li {
   position: relative;
   display: block;
+  
 }
 .nav > li > a {
   position: relative;
