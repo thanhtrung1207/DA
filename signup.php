@@ -16,7 +16,6 @@ if (isset($_SESSION['email'])) {
         <script src="js/bootstrap.min.js"></script>
     </head>
     <body>
-        <?php include 'header.php'; ?>
         <section class="h-100">
 		<div class="container h-100">
 			<div class="row justify-content-sm-center h-100">
@@ -99,6 +98,5 @@ if (isset($_SESSION['email'])) {
 			</div>
 		</div>
 	</section> 
-        <?php include "includes/footer.php"; ?>
     </body>
 </html>
